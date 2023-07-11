@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-app-ulyg.onrender.com/](https://portfolio-app-ulyg.onrender.com/)
 
-- 💬 Ask me about **Flask, Python, JavaScript,SQL**
+- 💬 Ask me about **Flask, Python, JavaScript, SQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/dariel-rodriguez/**
 
