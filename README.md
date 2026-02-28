@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python / Backend Web Development**
 
-- 👨‍💻 All of my projects are available at [myPortfolio](https://portfolio-app-ulyg.onrender.com/)
+- 👨‍💻 All of my projects are available at [myPortfolio](https://darielr.dev)
 
 - 💬 Ask me about **Flask, Python, JavaScript, SQL**
 
