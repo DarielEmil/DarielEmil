@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [myPortfolio](https://darielr.dev)
 
-- 💬 Ask me about **Flask, Python, JavaScript, SQL**
+- 💬 Ask me about **Flask, Python, JavaScript, SQL, FastAPI, Nest, Express, TypeScript, AWS**
 
 - 📫 How to reach me [linkedin/DarielRdriguez](https://www.linkedin.com/in/dariel-rodriguez/)
 
