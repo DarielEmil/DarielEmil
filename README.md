@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👾, I'm Dariel Rodriguez</h1>
 <h3 align="center">Backend Web Developer</h3>
 
-- 🌱 I’m currently learning **Python / Backend Web Development**
+- 🌱 I’m currently learning **Python / Software Developer**
 
 - 👨‍💻 All of my projects are available at [myPortfolio](https://darielr.dev)
 
